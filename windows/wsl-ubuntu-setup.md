@@ -20,7 +20,7 @@ After a reboot, the setup of Ubuntu will continue, you will see powershell reope
 
 and then an "Ubuntu" window opens and installs Ubuntu (this step might take a while)
 
-It will prompt you for your username.  You can make this whatever you would like.
+It will prompt you for your username.  You can make this whatever you would like. IT MAY NOT SHOW UP AS YOU TYPE FOR SECURITY REASONS, BUT IS STILL THERE!
 
 Remember this is a new *virtual computer*, it has it's own username and it's own password. So don't forget it!
 
